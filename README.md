@@ -17,7 +17,7 @@ This framework is a novel alternative to CART and other decision tree methods.
 
 * Nicholas Larus-Stone, Elaine Angelino, Daniel Alabi, Margo Seltzer, Vassilios Kaxiras, Aditya Saligrama, Cynthia Rudin
 **Systems Optimizations for Learning Certifiably Optimal Rule Lists**
-[SysML](http://www.sysml.cc/doc/2018/54.pdf), 2018
+[SysML](https://saligrama.io/files/sysml.pdf), 2018
 
 * Nicholas Larus-Stone. **Learning Certifiably Optimal Rule Lists: A Case For Discrete Optimization in the 21st Century**.
 [Senior thesis](https://dash.harvard.edu/handle/1/38811502), 2017.
@@ -29,6 +29,10 @@ This framework is a novel alternative to CART and other decision tree methods.
 CORELS is a custom branch-and-bound algorithm for optimizing rule lists.
 
 **Web UI can be found at:** https://corels.eecs.harvard.edu/
+
+**R Package can be found at:** https://cran.r-project.org/web/packages/corels/index.html
+
+**Python package can be found at:** https://pypi.org/project/corels/
 
 ## Overview
 
